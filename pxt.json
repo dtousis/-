@@ -1,5 +1,5 @@
 {
-    "name": "Τυχαίος Αριθμός",
+    "name": "Random Number",
     "description": "",
     "dependencies": {
         "core": "*",
